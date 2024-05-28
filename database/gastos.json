@@ -1,0 +1,49 @@
+[
+  {
+    "id": 0,
+    "roommate_id": "dc0f0ec8-881b-44da-b648-09856e3b35bb",
+    "comentario": "pesto y cosas para pasta",
+    "cantidad": 123456
+  },
+  {
+    "id": 3,
+    "roommate_id": "dc0f0ec8-881b-44da-b648-09856e3b35bb",
+    "comentario": "galletas",
+    "cantidad": 15000
+  },
+  {
+    "id": 4,
+    "roommate_id": "50901eac-0d29-43b8-b7ff-d25a2abab48e",
+    "comentario": "cosas perritos",
+    "cantidad": 1400
+  },
+  {
+    "id": 5,
+    "comentario": "Articulos de limpieza",
+    "cantidad": 15000
+  },
+  {
+    "id": 6,
+    "comentario": "sushi",
+    "cantidad": 1,
+    "roommate_id": null
+  },
+  {
+    "id": 16,
+    "roommate_id": null,
+    "comentario": "torta",
+    "cantidad": 2
+  },
+  {
+    "id": 18,
+    "roommate_id": "432a2c5d-3755-498b-b1ab-e3df6dfb73f5",
+    "comentario": "sushi",
+    "cantidad": 7000
+  },
+  {
+    "id": 12,
+    "roommate_id": "f5f6cebe-371f-42c1-95b4-05fb44113a37",
+    "comentario": "cocina",
+    "cantidad": 6666
+  }
+]

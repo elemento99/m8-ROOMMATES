@@ -1,0 +1,104 @@
+[
+  {
+    "id": "18d0f1ff-c1f9-4811-b1bd-49c33e21dd38",
+    "name": "Joel Petit",
+    "debit": -219912,
+    "income": 9999
+  },
+  {
+    "id": "a8aeb381-a4d5-4223-ba0a-d1fe81362e97",
+    "name": "Marta Lindstad",
+    "debit": -18000,
+    "income": 9999
+  },
+  {
+    "id": "dc0f0ec8-881b-44da-b648-09856e3b35bb",
+    "name": "Rosa Santos",
+    "debit": 120456,
+    "income": 9999
+  },
+  {
+    "id": "50901eac-0d29-43b8-b7ff-d25a2abab48e",
+    "name": "Judy Reid",
+    "debit": -1600,
+    "income": 9999
+  },
+  {
+    "id": "488c0b53-49b7-41c9-b928-6e61d4eea563",
+    "name": "Ivo Warholm",
+    "debit": -3000,
+    "income": 9999
+  },
+  {
+    "id": "393b5d56-dc96-4a65-8c78-dfa5990c3b0d",
+    "name": "Marie Nielsen",
+    "debit": -3000,
+    "income": 9999
+  },
+  {
+    "id": "b98c64c0-ff29-45b5-bb20-ebdd431b4c1f",
+    "name": "Suchita Gatty",
+    "debit": -3000,
+    "income": 9999
+  },
+  {
+    "id": "f60c70d8-d237-4697-ab08-6a7b46325714",
+    "name": "Pedro Rodriguez",
+    "debit": -3000,
+    "income": 9999
+  },
+  {
+    "id": "98f4629c-5a9a-47bf-895d-2c3d375d61a5",
+    "name": "Gökhan Yıldırım",
+    "debit": -3000,
+    "income": 9999
+  },
+  {
+    "id": "317630c9-0c24-44f6-899d-ffd59410206e",
+    "name": "Ronnie Gutierrez",
+    "debit": 0,
+    "income": 9999
+  },
+  {
+    "id": "2c73d005-a402-4bea-8c47-82f861790d5a",
+    "name": "Anaëlle Gaillard",
+    "debit": 0,
+    "income": 9999
+  },
+  {
+    "id": "432a2c5d-3755-498b-b1ab-e3df6dfb73f5",
+    "name": "Evelácio Peixoto",
+    "debit": -14000,
+    "income": 9999
+  },
+  {
+    "id": "53fdcef6-31cf-49b1-9f38-690508c82d1f",
+    "name": "Orest Aleksiievec",
+    "debit": 0,
+    "income": 9999
+  },
+  {
+    "id": "610963f3-b3f3-4849-9e43-96f81db9ec8b",
+    "name": "Dragica Vujčić",
+    "debit": 0,
+    "income": 9999
+  },
+  {
+    "id": "e0223de8-7a3b-4bb1-b502-f3bc0da57219",
+    "name": "Adna Bratli",
+    "debit": 0,
+    "income": 9999
+  },
+  {
+    "id": "f5f6cebe-371f-42c1-95b4-05fb44113a37",
+    "name": "Elena Medina",
+    "debit": 6666,
+    "income": 9999
+  },
+  {
+    "id": "7191d9b8-1ac4-411d-8b6d-6a21678f8d3f",
+    "name": "Kathrin Hubert",
+    "debit": 0,
+    "income": 9999
+  }
+]
